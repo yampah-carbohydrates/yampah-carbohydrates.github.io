@@ -1,6 +1,5 @@
 ---
-layout: page
 title: CV
-permalink: /about/
+permalink: /cv/
 ---
 Daniel Hayden
