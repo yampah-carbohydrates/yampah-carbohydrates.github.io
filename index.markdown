@@ -37,3 +37,5 @@ I also enjoy reading a lot of non-fiction, playing Civilization V, and cooking n
 	diversifying cropping systems to act analogous to plant communities like praries, where a diverse amount of plants rely on microbes for nutrient cycling, while the diversity inhibits pathogens from gaining a foothold. This is known as intercropping
 	or polyculture and I am interested in how microbes in these intercropping systems influence crops.
 
+## Quick Links
+- [View my CV](/cv/)
